@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1252790098, guid: 448d62fcada76fd4ab5702190add98fd, type: 3}
+  m_Name: EditorStates
+  m_EditorClassIdentifier: 
+  GeneralStates:
+    LoadedProjectGUID:
+      valueInternal: 
+    RecentlyOpenedProjectPath:
+      valueInternal: Assets\Animation
+    RecentlyOpenedProjectGUIDsList:
+    - valueInternal: a6fff1b3cb642ad4dba5bc764e5bf550
+    - valueInternal: 220ceb203758d9a4a80927bee36362a2
+    - valueInternal: ab97bbc4fa9062f4fb2263ed2dc6e16c
